@@ -1,4 +1,4 @@
-list = {
+ROMAJI_LIST = {
   'あ':   %w[a],
   'い':   %w[i yi],
   'う':   %w[u wu whu],
