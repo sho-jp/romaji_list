@@ -1,5 +1,5 @@
 class String
-  def to_test
+  def to_romaji_list
     self.split
   end
 end
